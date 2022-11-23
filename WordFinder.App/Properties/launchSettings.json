@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordFinder.App": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\DevCode2\\SynapseHealth\\WordMatrixTest0\\WordMatrixFirstPass\\InputFiles\\SynapseHealthMatrix0.txt\""
+    }
+  }
+}
